@@ -6,6 +6,11 @@ Reproduction and experimental code of classic reinforcement learning algorithm
     *   Prioritized_DQN
 
 ## Todo
+    *   CnnDQN
     *   PPO
     *   DDPG
     *   MADDPG
+
+## Environment
+    * gym
+    * env_CatchPigs (Mutli agent) : https://github.com/Bigpig4396/Multi-Agent-Reinforcement-Learning-Environment
